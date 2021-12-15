@@ -247,6 +247,56 @@
     margin-left: -117px;
     margin-top: 75px;
 }
+.rosita{
+    position: relative;
+    text-align: center;
+    top: 100px;
+    color: #FFFFFF;
+}
+.debajo{
+    position: relative;
+    margin-left: -260px;
+    margin-top: -218px;
+}
+
+/*QUINTA PARTE*/
+.nameimput{
+    position: relative;
+    left: 80px;
+    top: 400px;   
+}
+.name{
+    position: relative;
+}
+.emailinput{
+    position: relative;
+    top: 380px;
+    left: 80px;
+}
+.email{
+    position: relative;
+}
+.Messageinput{
+    position: relative;
+    top: 361px;
+    left: 80px;
+}
+.message{
+    position: relative;
+}
+.sendbutton{
+    position: relative;
+    top: 340px;
+    left: 80px;
+}
+.send{
+    position: relative;
+}
+.map{
+    position: relative;
+    margin-left: 570px;
+    top: -60px;
+}
 
 
 
