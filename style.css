@@ -1,0 +1,257 @@
+/*FONDO*/
+.fondo{
+    position: absolute;
+    width: 1440px;
+    height: 640px;
+    left: calc(50% - 1515px/2);
+    top: 0px;
+}
+/*NAVEGACION*/
+.navegacion{
+    position: absolute;
+    margin-top: -35px;
+    left: calc(50% - 1515px/2);
+}
+/*LOGO*/
+.circular--square {
+    position: absolute;
+    border-radius: 50%;
+    margin-left: 225px;
+    margin-top: -6px;
+}
+
+/*BARRA DE NAVEGACION*/
+.barra{
+    position: relative;
+    margin-left: 685px;
+    margin-top: 35px;
+}
+.barra1{
+    position: absolute;
+    margin-left: 115px;
+    color: #FFFFFF;
+}
+.barra2{
+    position: absolute;
+    margin-left: 210px;
+    color: #FFFFFF;
+}
+.barra3{
+    position: absolute;
+    margin-left: 330px;
+    color: #FFFFFF;
+}
+.barra4{
+    position: absolute;
+    margin-left: 430px;
+    color: #FFFFFF;
+}
+
+/*TITULO*/
+.titulo1{
+    position: absolute;
+    color: #FFFFFF;
+    margin-left: 305px;
+    margin-top: 212px;
+    font-size: 59px;
+}
+.col-sm-2{
+    position: absolute;
+    color: #FFFFFF;
+    margin-top: 304px;
+    margin-left: 470px;
+    width: 125px;
+}
+.titulo3{
+    position: absolute;
+    color: #FFFFFF;
+    margin-top: 300px;
+    margin-left: 613px;
+    font-size: 25px;
+}
+.col-sm-1{
+    position: absolute;
+    color: #FFFFFF;
+    margin-top: 304px;
+    margin-left: 760px;
+    width: 125px;
+}
+
+/*FLECHITA HACIA ABAJO*/
+
+.col-sm-3{
+    position: absolute;
+    color: #FFFFFF;
+    margin-top: 550px;
+    width: 30px;
+    margin-left: 677px;
+    transform: rotate(135deg);
+}
+.col-sm-4{
+    position: absolute;
+    color: #FFFFFF;
+    width: 30px;
+    margin-top: 550px;
+    margin-left: 656px;
+    transform: rotate(-135deg);
+}
+
+/*SEGUNDA PARTE*/
+
+/*TITULO4*/
+.titulo4{
+    position: absolute;
+    margin-top: 38em;
+    margin-left: 410px;
+}
+
+/*LINEA*/
+.linea{
+    margin-top: 680px;
+    width: 120px;
+    margin-left: 610px;
+}
+
+/*REDONDO*/
+.redondos{
+    position: absolute;
+    margin-top: 30px;
+}
+.redondo1{
+    position: absolute;
+}
+.redondo2{
+    position: absolute;
+    margin-left: 310px;
+}
+.redondo3{
+    position: absolute;
+    margin-left: 620px;
+}
+
+/*TITULO DE CIRCULOS*/
+.titulo-redondo1{
+    position: absolute;
+    margin-left: 310px;
+    margin-top: 320px;
+    font-size: 20px;
+}
+.parrafos{
+    position: absolute;
+    margin-left: 255px;
+    margin-top: 365px;
+}
+.parrafo1{
+    position: absolute;
+    margin-left: -5px;
+    margin-top: -5px;
+}
+.parrafo2{
+    margin-left: -25px;
+    margin-top: 22px;
+}
+.parrafo3{
+    margin-top: -12px;
+    margin-left: -15px;
+}
+.parrafo4{
+    margin-top: -12px;
+}
+
+.titulo-redondo2{
+    position: absolute;
+    margin-left: 620px;
+    margin-top: 320px;
+    font-size: 20px;
+}
+.parrafos2{
+    position: absolute;
+    margin-left: 570px;
+    margin-top: 360px;
+}
+.parrafo5{
+    margin-left: -5px;
+}
+.parrafo6{
+    margin-top: -14px;
+    margin-left: -25px;
+}
+.parrafo7{
+    margin-top: -12px;
+    margin-left: -15px;
+}
+.parrafo8{
+    margin-top: -12px;
+    margin-left: 0px;
+}
+
+.titulo-redondo3{
+    position: absolute;
+    margin-left: 930px;
+    margin-top: 320px;
+    font-size: 20px;    
+}
+.parrafos3{
+    position: absolute;
+    margin-left: 885px;
+    margin-top: 359px;
+}
+.parrafo9{
+    margin-left: -5px;
+}
+.parrafo10{
+    margin-top: -14px;
+    margin-left: -25px;
+}
+.parrafo11{
+    margin-top: -12px;
+    margin-left: -15px;
+}
+.parrafo12{
+    margin-top: -12px;
+    margin-left: 0px;
+}
+
+/*TERCERA PARTE*/
+.tercerfondo{
+    position: absolute;
+    margin-left: -116px;
+    margin-top: 510px;
+}
+.carrusel{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    margin-top: 580px;
+    margin-left: 10px;
+}
+.fondob{
+    position: relative;
+    margin-top: 50px;
+    margin-left: 420px;
+}
+.iglogo{
+    position: absolute;
+    margin-left: 440px;
+    margin-top: -43px;
+}
+.insta{
+    position: relative;
+    margin-left: 40px;
+    margin-top: -23px;
+}
+
+/*CUARTA PARTE*/
+.cuartofondo{
+    position: absolute;
+    margin-left: -117px;
+    margin-top: 75px;
+}
+
+
+
+
+
+
+
+  
